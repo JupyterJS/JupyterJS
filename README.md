@@ -4,7 +4,7 @@
 > :warning: We are beta testing JupyterJS and will release it publicly soon!
 
 
-The teaser example shows an example. One can easily reuse JavaScript codes (e.g., this d3 program) and bind variables between Python and JavaScript, reactively. Upon hovering or lassoing points in JavaScript visualizations, one can access corresponding values in Python kernel.
+The teaser shows an example. One can easily reuse JavaScript codes (e.g., [this d3 program](https://stackoverflow.com/questions/64107576/lasso-plugin-wont-work-with-d3-upgrade-to-v6)) and bind variables between Python and JavaScript, reactively. Upon hovering or lassoing points in JavaScript visualizations, one can access corresponding values in Python kernel.
 
 ![alt text](https://jupyterjs.github.io/_images/scatter.gif)
 
